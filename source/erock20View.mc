@@ -32,7 +32,7 @@ class erock20View extends Ui.WatchFace {
         Time.drawTime(dc, cx, 60);
         
         Date.drawDate(dc, cx, 155);
-        
+        Step.drawSteps(dc, cx, 20);
         Battery.drawBattery(dc, cx, cy);
         
     }
