@@ -17,7 +17,7 @@ class erock20App extends App.AppBase {
 
     // Return the initial view of your application here
     function getInitialView() {
-        return [ new erock20View() ];
+        return [ new WatchView() ];
     }
 
     function onSettingsChanged(){

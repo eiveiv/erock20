@@ -2,7 +2,7 @@ using Toybox.WatchUi as Ui;
 using Toybox.Graphics as Gfx;
 using Toybox.System as Sys;
 
-class erock20View extends Ui.WatchFace {
+class WatchView extends Ui.WatchFace {
 
 	hidden var centralX;
     hidden var centralY;
