@@ -17,7 +17,11 @@ class erock20App extends App.AppBase {
 
     // Return the initial view of your application here
     function getInitialView() {
-        return [ new erock20View(), new erock20Delegate() ];
+        return [ new erock20View() ];
+    }
+
+    function onSettingsChanged(){
+        Ui.requestUpdate();
     }
 
 }

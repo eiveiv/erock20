@@ -1,14 +1,22 @@
 using Toybox.WatchUi as Ui;
+using Toybox.Graphics as Gfx;
+using Toybox.System as Sys;
 
-class erock20View extends Ui.View {
+class erock20View extends Ui.WatchFace {
+
+	hidden var cx;
+    hidden var cy;
+    hidden var loop = 1;
+    hidden var active;
 
     function initialize() {
-        View.initialize();
+         WatchFace.initialize();
     }
 
     // Load your resources here
     function onLayout(dc) {
-        setLayout(Rez.Layouts.MainLayout(dc));
+        cx = dc.getWidth() / 2;
+        cy = dc.getHeight() / 2;
     }
 
     // Called when this View is brought to the foreground. Restore
@@ -20,7 +28,15 @@ class erock20View extends Ui.View {
     // Update the view
     function onUpdate(dc) {
         // Call the parent onUpdate function to redraw the layout
-        View.onUpdate(dc);
+        dc.setColor(Gfx.COLOR_BLACK, Gfx.COLOR_BLACK);
+        dc.clear();
+        System.println(cx);
+        Time.drawTime(dc, cx, cy);
+        
+        Date.drawDate(dc, cx, 155);
+        
+        Battery.drawBattery(dc, cx, cy);
+        
     }
 
     // Called when this View is removed from the screen. Save the
