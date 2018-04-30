@@ -15,8 +15,8 @@
 <entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\Time.mc" lineNum="15" pc="268435591" symbol="drawTime"/>
 <entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\Time.mc" lineNum="16" pc="268435615" symbol="drawTime"/>
 <entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\Time.mc" lineNum="17" pc="268435639" symbol="drawTime"/>
-<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\Time.mc" lineNum="21" pc="268435661" symbol="drawTime"/>
-<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\Time.mc" lineNum="22" pc="268435697" symbol="drawTime"/>
+<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\Time.mc" lineNum="19" pc="268435661" symbol="drawTime"/>
+<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\Time.mc" lineNum="20" pc="268435697" symbol="drawTime"/>
 <entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\erock20View.mc" lineNum="10" pc="268435740" symbol="initialize"/>
 <entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\erock20View.mc" lineNum="11" pc="268435744" symbol="initialize"/>
 <entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\erock20View.mc" lineNum="15" pc="268435763" symbol="onLayout"/>
@@ -89,10 +89,10 @@
 <entry id="8389125" method="true" symbol="onHide"/>
 <entry id="16" module="true" symbol="Battery"/>
 <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="28" symbol="centralY"/>
+<entry field="true" id="27" symbol="centralX"/>
 <entry id="20" module="true" symbol="Menus"/>
-<entry field="true" id="28" symbol="cy"/>
 <entry id="8388772" module="true" object="true" symbol="Fonts"/>
-<entry field="true" id="27" symbol="cx"/>
 </symbolTable>
 <localVars>
 <entry endPc="268435484" name="state" stackId="1" startPc="268435479"/>

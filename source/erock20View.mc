@@ -4,8 +4,8 @@ using Toybox.System as Sys;
 
 class erock20View extends Ui.WatchFace {
 
-	hidden var cx;
-    hidden var cy;
+	hidden var centralX;
+    hidden var centralY;
 
     function initialize() {
          WatchFace.initialize();
@@ -13,8 +13,8 @@ class erock20View extends Ui.WatchFace {
 
     // Load your resources here
     function onLayout(dc) {
-        cx = dc.getWidth() / 2;
-        cy = dc.getHeight() / 2;
+        centralX = dc.getWidth() / 2;
+        centralY = dc.getHeight() / 2;
     }
 
     // Called when this View is brought to the foreground. Restore
@@ -28,12 +28,12 @@ class erock20View extends Ui.WatchFace {
         // Call the parent onUpdate function to redraw the layout
         dc.setColor(Gfx.COLOR_BLACK, Gfx.COLOR_BLACK);
         dc.clear();
-        System.println(cx);
-        Time.drawTime(dc, cx, 60);
+        System.println(centralX);
+        Time.drawTime(dc, centralX, 60);
         
-        Date.drawDate(dc, cx, 155);
-        Step.drawSteps(dc, cx, 20);
-        Battery.drawBattery(dc, cx, cy);
+        Date.drawDate(dc, centralX, 155);
+        Step.drawSteps(dc, centralX, 20);
+        Battery.drawBattery(dc, centralX, centralY);
         
     }
 

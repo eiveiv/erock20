@@ -7,7 +7,7 @@ module Battery {
         
         var batteryPercentage = System.getSystemStats().battery;
         
-        dc.setPenWidth(3);
+        dc.setPenWidth(4);
         dc.setColor(Graphics.COLOR_GREEN,Graphics.COLOR_TRANSPARENT);
         
         if (batteryPercentage < 25) {

@@ -15,8 +15,6 @@ module Time {
 		var minutes = time.min.format("%02d");
         var seconds = time.sec.format("%02d");
         var text = hours + ":" + minutes + ":" + seconds;
-        //var height = y * 1,5;
-        
         
         dc.setColor(Graphics.COLOR_RED , Graphics.COLOR_TRANSPARENT);
     	dc.drawText(
