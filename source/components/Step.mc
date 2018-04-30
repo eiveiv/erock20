@@ -10,6 +10,7 @@ module Step {
 		var stepsNumer = 700;
 		
 		dc.drawBitmap(x - 55 ,y,stepsBitmap);
+		dc.setColor(Graphics.COLOR_DK_GRAY , Graphics.COLOR_TRANSPARENT);
 		dc.drawText(x , y, Graphics.FONT_SMALL, stepsNumer, Graphics.TEXT_JUSTIFY_CENTER);
 	}
 	

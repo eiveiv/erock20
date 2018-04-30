@@ -16,14 +16,8 @@ module Time {
         var seconds = time.sec.format("%02d");
         var text = hours + ":" + minutes + ":" + seconds;
         
-        dc.setColor(Graphics.COLOR_RED , Graphics.COLOR_TRANSPARENT);
-    	dc.drawText(
-        	x,                      // gets the width of the device and divides by 2
-        	y,                     // gets the height of the device and divides by 2
-        	Graphics.FONT_NUMBER_HOT ,                    // sets the font size
-        	text,                          // the String to display
-        	Graphics.TEXT_JUSTIFY_CENTER            // sets the justification for the text
-                );
+        dc.setColor(Graphics.COLOR_DK_GRAY , Graphics.COLOR_TRANSPARENT);
+    	dc.drawText(x, y, Graphics.FONT_NUMBER_HOT ,text, Graphics.TEXT_JUSTIFY_CENTER);
 	
 	}
 
