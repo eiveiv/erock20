@@ -17,50 +17,50 @@
 <entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\Time.mc" lineNum="17" pc="268435639" symbol="drawTime"/>
 <entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\Time.mc" lineNum="21" pc="268435661" symbol="drawTime"/>
 <entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\Time.mc" lineNum="22" pc="268435697" symbol="drawTime"/>
-<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\erock20View.mc" lineNum="12" pc="268435740" symbol="initialize"/>
-<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\erock20View.mc" lineNum="13" pc="268435744" symbol="initialize"/>
-<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\erock20View.mc" lineNum="17" pc="268435763" symbol="onLayout"/>
-<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\erock20View.mc" lineNum="18" pc="268435767" symbol="onLayout"/>
-<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\erock20View.mc" lineNum="19" pc="268435792" symbol="onLayout"/>
-<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\erock20View.mc" lineNum="25" pc="268435818" symbol="onShow"/>
-<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\erock20View.mc" lineNum="29" pc="268435823" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\erock20View.mc" lineNum="31" pc="268435827" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\erock20View.mc" lineNum="32" pc="268435863" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\erock20View.mc" lineNum="33" pc="268435875" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\erock20View.mc" lineNum="34" pc="268435901" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\erock20View.mc" lineNum="36" pc="268435937" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\erock20View.mc" lineNum="38" pc="268435970" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\erock20View.mc" lineNum="45" pc="268436007" symbol="onHide"/>
-<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\Step.mc" lineNum="10" pc="268436012" symbol="drawBattery"/>
-<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\Step.mc" lineNum="12" pc="268436024" symbol="drawBattery"/>
-<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\Step.mc" lineNum="14" pc="268436047" symbol="drawBattery"/>
-<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\Step.mc" lineNum="15" pc="268436064" symbol="drawBattery"/>
-<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\Step.mc" lineNum="17" pc="268436100" symbol="drawBattery"/>
-<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\Step.mc" lineNum="18" pc="268436116" symbol="drawBattery"/>
-<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\Step.mc" lineNum="19" pc="268436127" symbol="drawBattery"/>
-<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\Date.mc" lineNum="10" pc="268436195" symbol="drawDate"/>
-<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\Date.mc" lineNum="12" pc="268436207" symbol="drawDate"/>
-<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\Date.mc" lineNum="13" pc="268436224" symbol="drawDate"/>
-<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\Date.mc" lineNum="14" pc="268436255" symbol="drawDate"/>
-<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\Date.mc" lineNum="16" pc="268436315" symbol="drawDate"/>
-<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\Date.mc" lineNum="17" pc="268436351" symbol="drawDate"/>
-<entry filename="Rez" lineNum="15" pc="268436394" symbol="initialize"/>
-<entry filename="Rez" lineNum="16" pc="268436398" symbol="initialize"/>
-<entry filename="Rez" lineNum="17" pc="268436416" symbol="initialize"/>
-<entry filename="Rez" lineNum="18" pc="268436468" symbol="initialize"/>
-<entry filename="Rez" lineNum="34" pc="268436521" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="38" pc="268436533" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="39" pc="268436696" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="40" pc="268436721" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="41" pc="268436773" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="42" pc="268436889" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="45" pc="268436941" symbol="MainLayout"/>
+<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\erock20View.mc" lineNum="10" pc="268435740" symbol="initialize"/>
+<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\erock20View.mc" lineNum="11" pc="268435744" symbol="initialize"/>
+<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\erock20View.mc" lineNum="15" pc="268435763" symbol="onLayout"/>
+<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\erock20View.mc" lineNum="16" pc="268435767" symbol="onLayout"/>
+<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\erock20View.mc" lineNum="17" pc="268435792" symbol="onLayout"/>
+<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\erock20View.mc" lineNum="23" pc="268435818" symbol="onShow"/>
+<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\erock20View.mc" lineNum="27" pc="268435823" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\erock20View.mc" lineNum="29" pc="268435827" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\erock20View.mc" lineNum="30" pc="268435863" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\erock20View.mc" lineNum="31" pc="268435875" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\erock20View.mc" lineNum="32" pc="268435901" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\erock20View.mc" lineNum="34" pc="268435934" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\erock20View.mc" lineNum="36" pc="268435967" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\erock20View.mc" lineNum="43" pc="268436004" symbol="onHide"/>
+<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\Step.mc" lineNum="10" pc="268436009" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\Step.mc" lineNum="12" pc="268436021" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\Step.mc" lineNum="14" pc="268436044" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\Step.mc" lineNum="15" pc="268436061" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\Step.mc" lineNum="17" pc="268436097" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\Step.mc" lineNum="18" pc="268436113" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\Step.mc" lineNum="19" pc="268436124" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\Date.mc" lineNum="10" pc="268436192" symbol="drawDate"/>
+<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\Date.mc" lineNum="12" pc="268436204" symbol="drawDate"/>
+<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\Date.mc" lineNum="13" pc="268436221" symbol="drawDate"/>
+<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\Date.mc" lineNum="14" pc="268436252" symbol="drawDate"/>
+<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\Date.mc" lineNum="16" pc="268436312" symbol="drawDate"/>
+<entry filename="C:\\Users\\Eivind\\eclipse-workspace\\erock20\\.\\source\\Date.mc" lineNum="17" pc="268436348" symbol="drawDate"/>
+<entry filename="Rez" lineNum="15" pc="268436391" symbol="initialize"/>
+<entry filename="Rez" lineNum="16" pc="268436395" symbol="initialize"/>
+<entry filename="Rez" lineNum="17" pc="268436413" symbol="initialize"/>
+<entry filename="Rez" lineNum="18" pc="268436465" symbol="initialize"/>
+<entry filename="Rez" lineNum="34" pc="268436518" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="38" pc="268436530" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="39" pc="268436693" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="40" pc="268436718" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="41" pc="268436770" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="42" pc="268436886" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="45" pc="268436938" symbol="MainLayout"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8388644" module="true" symbol="System"/>
 <entry id="8389124" method="true" symbol="onUpdate"/>
 <entry id="8389349" symbol="justification"/>
-<entry id="34" method="true" symbol="drawBattery"/>
+<entry id="32" method="true" symbol="drawBattery"/>
 <entry field="true" id="8388611" module="true" symbol="Toybox"/>
 <entry id="8388645" module="true" symbol="Time"/>
 <entry id="16" method="true" symbol="drawDate"/>
@@ -76,11 +76,10 @@
 <entry id="8388924" module="true" symbol="Gregorian"/>
 <entry id="8388702" method="true" symbol="initialize"/>
 <entry field="true" id="26" symbol="AppName"/>
-<entry field="true" id="32" symbol="loop"/>
 <entry field="true" id="27" symbol="textWidth"/>
 <entry id="12" object="true" symbol="erock20App"/>
-<entry id="36" symbol="item_2"/>
-<entry id="35" symbol="item_1"/>
+<entry id="34" symbol="item_2"/>
+<entry id="33" symbol="item_1"/>
 <entry field="true" id="20" symbol="LauncherIcon"/>
 <entry id="29" method="true" symbol="drawTime"/>
 <entry id="8389683" method="true" symbol="onSettingsChanged"/>
@@ -93,7 +92,6 @@
 <entry id="8388771" module="true" object="true" symbol="Drawables"/>
 <entry id="8389122" method="true" symbol="onLayout"/>
 <entry id="8389279" method="true" symbol="onStart"/>
-<entry field="true" id="33" symbol="active"/>
 <entry field="true" id="19" symbol="id_monkey"/>
 <entry id="8389348" symbol="font"/>
 <entry id="13" object="true" symbol="erock20View"/>
@@ -124,22 +122,22 @@
 <entry endPc="268435740" name="dc" stackId="1" startPc="268435552"/>
 <entry endPc="268435740" name="y" stackId="3" startPc="268435552"/>
 <entry endPc="268435818" name="dc" stackId="1" startPc="268435763"/>
-<entry endPc="268436007" name="dc" stackId="1" startPc="268435823"/>
-<entry endPc="268436194" name="batteryPercentage" stackId="4" startPc="268436024"/>
-<entry endPc="268436194" name="circlePercentage" stackId="5" startPc="268436024"/>
-<entry endPc="268436195" name="x" stackId="2" startPc="268436012"/>
-<entry endPc="268436195" name="dc" stackId="1" startPc="268436012"/>
-<entry endPc="268436195" name="y" stackId="3" startPc="268436012"/>
-<entry endPc="268436393" name="date" stackId="5" startPc="268436207"/>
-<entry endPc="268436393" name="dateString" stackId="6" startPc="268436207"/>
-<entry endPc="268436393" name="moment" stackId="4" startPc="268436207"/>
-<entry endPc="268436394" name="x" stackId="2" startPc="268436195"/>
-<entry endPc="268436394" name="dc" stackId="1" startPc="268436195"/>
-<entry endPc="268436394" name="y" stackId="3" startPc="268436195"/>
-<entry endPc="268436968" name="rez_cmp_local_bitmap_B6IGV7KZH4_fontHeight" stackId="3" startPc="268436533"/>
-<entry endPc="268436968" name="rez_cmp_local_bitmap_B6IGV7KZH4" stackId="2" startPc="268436533"/>
-<entry endPc="268436968" name="rez_cmp_local_bitmap_id_monkey" stackId="4" startPc="268436533"/>
-<entry endPc="268436969" name="dc" stackId="1" startPc="268436521"/>
+<entry endPc="268436004" name="dc" stackId="1" startPc="268435823"/>
+<entry endPc="268436191" name="batteryPercentage" stackId="4" startPc="268436021"/>
+<entry endPc="268436191" name="circlePercentage" stackId="5" startPc="268436021"/>
+<entry endPc="268436192" name="x" stackId="2" startPc="268436009"/>
+<entry endPc="268436192" name="dc" stackId="1" startPc="268436009"/>
+<entry endPc="268436192" name="y" stackId="3" startPc="268436009"/>
+<entry endPc="268436390" name="date" stackId="5" startPc="268436204"/>
+<entry endPc="268436390" name="dateString" stackId="6" startPc="268436204"/>
+<entry endPc="268436390" name="moment" stackId="4" startPc="268436204"/>
+<entry endPc="268436391" name="x" stackId="2" startPc="268436192"/>
+<entry endPc="268436391" name="dc" stackId="1" startPc="268436192"/>
+<entry endPc="268436391" name="y" stackId="3" startPc="268436192"/>
+<entry endPc="268436965" name="rez_cmp_local_bitmap_id_monkey" stackId="4" startPc="268436530"/>
+<entry endPc="268436965" name="rez_cmp_local_bitmap_DDJ4P9WYL8_fontHeight" stackId="3" startPc="268436530"/>
+<entry endPc="268436965" name="rez_cmp_local_bitmap_DDJ4P9WYL8" stackId="2" startPc="268436530"/>
+<entry endPc="268436966" name="dc" stackId="1" startPc="268436518"/>
 </localVars>
 <annotations/>
 <functions>
@@ -217,6 +215,6 @@
 <dataEntry offset="669" parentId="Rez" symbolId="Strings" type="module"/>
 <dataEntry offset="732" parentId="globals" symbolId="Time" type="module"/>
 <dataEntry offset="787" parentId="globals" symbolId="erock20View" type="class"/>
-<dataEntry offset="898" parentId="globals" symbolId="Battery" type="module"/>
+<dataEntry offset="882" parentId="globals" symbolId="Battery" type="module"/>
 </dataEntryOffsetMappings>
 </debugInfo>

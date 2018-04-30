@@ -6,8 +6,6 @@ class erock20View extends Ui.WatchFace {
 
 	hidden var cx;
     hidden var cy;
-    hidden var loop = 1;
-    hidden var active;
 
     function initialize() {
          WatchFace.initialize();
@@ -31,7 +29,7 @@ class erock20View extends Ui.WatchFace {
         dc.setColor(Gfx.COLOR_BLACK, Gfx.COLOR_BLACK);
         dc.clear();
         System.println(cx);
-        Time.drawTime(dc, cx, cy);
+        Time.drawTime(dc, cx, 60);
         
         Date.drawDate(dc, cx, 155);
         
